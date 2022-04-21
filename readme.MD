@@ -18,6 +18,7 @@ I also worked with the backend team and we came up with a smart contract to crea
 I then personally worked on the unit test too although I had some issues verifying some functionalities but I was still able to come up with something from my end.
 
 PROJECT 3: VOTING DApp with team u
+https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/blob/test-branch/contracts/Election.sol
 https://github.com/Ifenna-Pascal/Blockgames_task_3--VotingDapp/blob/test-branch/test/voting-test.js
 
 I worked with te backend team and I contributed to creating the smart contract. I was also taske with writing the unit test but I could ot come up with one as I had errors. All tutorials to solve this issue proved abortive. Not withstanding, I was stillable tocome up with few tests
